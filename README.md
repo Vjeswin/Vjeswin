@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Jeswin%20Raj&fontSize=60&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%20Engineer%20%7C%20Automation%20Builder&descAlignY=55&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Jeswin%20Raj&fontSize=60&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%20Engineer%20%7C%20Automation%20Builder&descAlignY=55&animation=fadeIn"/>
 </p>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Software+Developer;AI+Chatbot+Developer;Automation+Builder;Full+Stack+Learner;Always+Learning+New+Technologies" />
