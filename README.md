@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Jeswin Raj</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Jeswin%20Raj&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+</p>
 
 <h3 align="center">Software Developer | AI Enthusiast | Automation Builder</h3>
 
@@ -106,8 +108,9 @@ Responsive web application with shopping cart functionality.
 ---
 
 ## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/YOUR_USERNAME/Vjeswin/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vjeswin&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
 ---
 
