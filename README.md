@@ -1,30 +1,34 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Jeswin%20Raj&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Jeswin%20Raj&fontSize=60&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%20Engineer%20%7C%20Automation%20Builder&descAlignY=55&animation=fadeIn"/>
 </p>
-
-<h3 align="center">Software Developer | AI Enthusiast | Automation Builder</h3>
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Software+Developer;AI+Chatbot+Developer;Automation+Builder;Full+Stack+Learner;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-## 🚀 About Me
+<table>
+<tr>
+<td>
 
-💻 Software Developer with hands-on industry experience
+🚀 Building AI-powered applications
 
-🤖 Built AI-powered RAG Chatbots
+⚙️ Creating automation workflows
 
-⚙️ Developed Automation Workflows using n8n
+🌐 Developing scalable web solutions
 
-🌐 Created Web Applications and ERP Solutions
+📚 Learning Spring Boot & Advanced Backend
 
-📚 Currently Learning Spring Boot & Advanced Backend Development
+🎯 Goal: Become a Full Stack AI Engineer
 
-🎯 Passionate about AI, Full Stack Development, and Automation
+</td>
 
----
+<td>
+<img width="300" src="https://github-readme-stats.vercel.app/api?username=Vjeswin&show_icons=true&theme=tokyonight"/>
+</td>
+
+</tr>
+</table>
 
 ## 🌐 Connect With Me
 
@@ -43,12 +47,9 @@
 ## 🛠️ Tech Stack
 
 ### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,js,html,css,flask,mysql,git,github,postman,vscode"/>
+</p>
 
 ### Tools & Technologies
 
