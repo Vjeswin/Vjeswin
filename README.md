@@ -1,4 +1,4 @@
-![snake animation](https://raw.githubusercontent.com/Vjeswin/Vjeswin/output/github-contribution-grid-snake.svg)
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Jeswin%20Raj&fontSize=60&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%20Engineer%20%7C%20Automation%20Builder&descAlignY=55&animation=fadeIn"/>
 </p>
@@ -109,6 +109,7 @@ Responsive web application with shopping cart functionality.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Vjeswin&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
+![snake animation](https://raw.githubusercontent.com/Vjeswin/Vjeswin/output/github-contribution-grid-snake.svg)
 
 ---
 ## 💡 Quote
