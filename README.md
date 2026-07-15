@@ -65,7 +65,7 @@
 
 <br>
 
-## 📌 Featured Projects
+## 📌 Featured Project
 
 <table>
 <tr>
