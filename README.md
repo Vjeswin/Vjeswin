@@ -26,7 +26,7 @@
 
 </td>
 <td valign="top" width="40%">
-<img width="300" src="https://github-readme-stats.vercel.app/api?username=Vjeswin&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="300" src="https://github-stats-extended.vercel.app/api?username=Vjeswin&show_icons=true&theme=tokyonight&hide_border=true"/>
 </td>
 </tr>
 </table>
@@ -95,8 +95,8 @@ Responsive web application with shopping cart functionality.
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vjeswin&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vjeswin&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=Vjeswin&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Vjeswin&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <br>
@@ -104,7 +104,7 @@ Responsive web application with shopping cart functionality.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Vjeswin&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Vjeswin&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 <br>
