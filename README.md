@@ -48,7 +48,7 @@
 
 ## 🛠️ Tech Stack
 
-### Languages & Tools
+### Languages & Tool
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,js,html,css,flask,mysql,git,github,postman,vscode"/>
