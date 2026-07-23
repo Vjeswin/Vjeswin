@@ -33,6 +33,18 @@
 
 <br>
 
+## 🧑‍💻 About Me
+
+<!-- TODO: Replace this line with 1-3 sentences of real context — e.g. your course/year, college name, years of experience, or current job/internship. Recruiters look for this. -->
+> Software Developer currently focused on AI-powered applications and automation. *(edit this line with your actual background — student/college, job title, or years of experience)*
+
+- 🔭 Currently working on: **RAG AI Chatbot**
+- 🌱 Currently learning: **Spring Boot & Advanced Backend**
+- 🎯 2026 Goal: Become a Full Stack AI Engineer
+- 📄 Resume: <!-- TODO: add link here, e.g. [View Resume](https://your-resume-link.com) -->
+
+<br>
+
 ## 🌐 Connect With Me :)
 
 <p align="left">
@@ -70,14 +82,21 @@
 <td width="33%" valign="top">
 <h3>🤖 RAG AI Chatbot</h3>
 AI chatbot using Retrieval-Augmented Generation, Vector DB and LLM Integration.
+<br><br>
+<!-- TODO: replace # with your real repo/demo URLs -->
+<a href="#">🔗 Repo</a> &nbsp;|&nbsp; <a href="#">🚀 Live Demo</a>
 </td>
 <td width="33%" valign="top">
 <h3>⚙️ ERP Customization</h3>
 Custom ERP modules, API integrations and backend workflow enhancements.
+<br><br>
+<a href="#">🔗 Repo</a> &nbsp;|&nbsp; <a href="#">🚀 Live Demo</a>
 </td>
 <td width="33%" valign="top">
 <h3>🛒 E-Commerce Website</h3>
 Responsive web application with shopping cart functionality.
+<br><br>
+<a href="#">🔗 Repo</a> &nbsp;|&nbsp; <a href="#">🚀 Live Demo</a>
 </td>
 </tr>
 </table>
