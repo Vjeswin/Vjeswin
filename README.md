@@ -96,6 +96,7 @@ Responsive web application with shopping cart functionality.
 <p align="center">
 <img src="https://github-profile-trophy-tawny.vercel.app/?username=Vjeswin&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
+<br>
 
 <br>
 
